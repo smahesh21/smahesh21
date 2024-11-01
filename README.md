@@ -1,11 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mahesh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smahesh21&label=Profile%20views&color=0e75b6&style=flat" alt="smahesh21" /> </p>
 
-- 🔭 I’m currently working on **Cloning ReactJs**
-
-- 🌱 I’m currently learning **ReactJs Hooks**
-
-- 👯 I’m looking to collaborate on **MERN STACK**
+- 🔭 I’m currently working as a **Frontend Engineer at sprout.ai**
 
 - 💬 Ask me about **Web Development**
 
